@@ -1,6 +1,6 @@
 {
-    "name": "infyomlabs/laravel-generator",
-    "description": "InfyOm Laravel Generator",
+    "name": "milind/laravel-generator",
+    "description": "Milind Laravel Generator",
     "keywords": [
         "laravel",
         "api",
@@ -18,8 +18,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "Milind Patel",
+            "email": "ma353353@gmail.com"
         }
     ],
     "require": {
